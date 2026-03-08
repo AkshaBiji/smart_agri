@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "crop": "Wheat",
+    "quantity": "500 kg",
+    "expectedPrice": "₹2100/quintal",
+    "farmerName": "Ramesh Kumar",
+    "location": "Punjab",
+    "contact": "9876543210"
+  },
+  {
+    "id": 2,
+    "crop": "Cotton",
+    "quantity": "200 kg",
+    "expectedPrice": "₹6000/quintal",
+    "farmerName": "Suresh Patel",
+    "location": "Gujarat",
+    "contact": "8765432109"
+  },
+  {
+    "id": 3,
+    "crop": "Tomatoes",
+    "quantity": "100 kg",
+    "expectedPrice": "₹1500/quintal",
+    "farmerName": "Anil",
+    "location": "Maharashtra",
+    "contact": "7654321098"
+  },
+  {
+    "id": 1772959267587,
+    "crop": "jhh",
+    "quantity": "889",
+    "expectedPrice": "889",
+    "farmerName": "uhij",
+    "location": "jh j",
+    "contact": "780-090976"
+  }
+]

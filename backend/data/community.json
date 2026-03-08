@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "author": "Ramesh Kumar",
+    "title": "Fertilizer for Wheat",
+    "question": "What is the best fertilizer for wheat during the early growth stages?",
+    "answers": [
+      "Urea is generally recommended as a top dressing.",
+      "Use NPK 19:19:19 foliar spray for quick absorption."
+    ],
+    "date": "2026-03-01T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "author": "Anil",
+    "title": "Tomato Blight Issues",
+    "question": "My tomato leaves are turning brown with dark spots. Any organic remedies?",
+    "answers": [
+      "Looks like early blight. Try a copper-based fungicide or neem oil spray.",
+      "Rotate your crops and ensure good air circulation."
+    ],
+    "date": "2026-03-05T14:30:00.000Z"
+  },
+  {
+    "id": 1772959729657,
+    "author": "hyguh",
+    "title": "hgvyg",
+    "question": "trhtr",
+    "answers": [],
+    "date": "2026-03-08T08:48:49.657Z"
+  },
+  {
+    "id": 1772959745375,
+    "author": "uguy",
+    "title": "jhguu",
+    "question": "jiuio",
+    "answers": [],
+    "date": "2026-03-08T08:49:05.375Z"
+  }
+]
